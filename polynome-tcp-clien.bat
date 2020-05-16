@@ -1,0 +1,1 @@
+java -jar ".\tcp-polynome-client\target\tcp-polynome-client-1.0-SNAPSHOT-jar-with-dependencies.jar"
